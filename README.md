@@ -1,4 +1,4 @@
-# automatic-waddle
+# personal fitness dashboard dataease
 Openrank
 # 基于 DataEase 的个人健身数据可视化看板
 OpenRank杯初赛作品 - 数据科学大二新手项目
